@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mn/ykvrE6FcrNSlHFdLeko8Kj9tC8C8JUI8pcJWbIOihjdqnK3zOt1fYZtmP+CxmigtV8iuGf7pDBkGNnuOHiA==",
+  "success": true,
+  "projectFilePath": "E:\\Repository\\.Net\\TeamCity_WPFApplicationCodeFlow\\TeamCity_WPFApplicationCodeFlow\\LiteDb_CRUDOperations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\soham\\.nuget\\packages\\litedb\\5.0.12\\litedb.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
